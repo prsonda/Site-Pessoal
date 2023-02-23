@@ -2,7 +2,7 @@
 	min-height: calc(100vh - 120px);
 	padding: 20px;
 	text-align: center;
-	background-image: linear-gradient(150deg, #0d4447, #164345, #3c696b, #437578);
+	background-color: #010212;
 	min-width: 280px;
 	flex: 1 1 300px;
 	color: #bdfcff;

@@ -5,7 +5,7 @@
 	justify-content: center;
 	align-items: center;
 	flex: 20 1 600px;
-	color: #113537;
+	color: #010212;
 	padding: 10px;
 }
 
@@ -15,7 +15,6 @@
 
 .main p {
 	padding: 10px;
-	background-color: #cdfafd;
 	font-size: 0.9em;
 	margin-left: 50px;
 	margin-right: 50px;

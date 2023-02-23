@@ -1,7 +1,7 @@
 .navbar {
 	height: 70px;
 	display: flex;
-	background-color: #0d4447;
+	background-color: #010212;
 	font-size: 1.3em;
 	justify-content: center;
 	align-items: center;
@@ -22,7 +22,7 @@
 
 .navbar a:hover {
 	color: #00f2ff;
-	background-color: #113537;
+	background-color: #020743;
 }
 
 @media only screen and (min-width: 717px) {

@@ -1,7 +1,6 @@
 .container {
 	min-height: calc(100vh - 120px);
 	text-align: center;
-	background-color: rgb(229, 166, 166);
 	display: flex;
 	flex-wrap: wrap;
 }

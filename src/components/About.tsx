@@ -22,7 +22,7 @@ export default function Aside() {
 					<h3>DADOS PESSOAIS</h3>
 					<p> idade: 38 anos</p>
 					<p>Estado Civil: Casado </p>
-					<p>Filhos: 14 e 11 anos</p>
+					<p>Filhos: 14 e 12 anos</p>
 					<p>Bairro: Sítio Cercado</p>
 					<p>Cidade/UF: Curitiba/PR</p>
 				</article>
