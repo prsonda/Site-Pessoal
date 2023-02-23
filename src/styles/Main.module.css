@@ -1,0 +1,26 @@
+.main {
+	min-height: calc(100vh - 120px);
+	background-color: #f2feff;
+	font-size: 1.3em;
+	justify-content: center;
+	align-items: center;
+	flex: 20 1 600px;
+	color: #113537;
+	padding: 10px;
+}
+
+.main h1 {
+	font-size: 1.5em;
+}
+
+.main p {
+	padding: 10px;
+	background-color: #cdfafd;
+	font-size: 0.9em;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+.main a {
+	padding: 0 10px 0 10px;
+}
