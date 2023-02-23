@@ -142,7 +142,7 @@ export default function Home() {
 				<section>
 					<Image
 						className={styles.imagemAlternativa}
-						src="https://github-readme-stats.vercel.app/api/top-langs/?username=prsonda&layout=compact&custom_title=Linguagens%20%mais%20%utilizadas&theme=dracula"
+						src="/linguagens.svg"
 						alt="Linguagens Utilizadas"
 						width={250}
 						height={110}
