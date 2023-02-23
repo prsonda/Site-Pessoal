@@ -15,7 +15,6 @@ header {
 	display: flex;
 	flex-wrap: wrap;
 	flex: 1 1 100vw;
-	padding: 10px 10px 10px 10px;
 	justify-content: space-between;
 	align-items: center;
 }

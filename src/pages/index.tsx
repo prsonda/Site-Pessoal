@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import styles from "@/styles/Home.module.css";
 
 export default function Home() {
 	return (
@@ -140,10 +141,11 @@ export default function Home() {
 				<br />
 				<section>
 					<Image
+						className={styles.imagemAlternativa}
 						src="https://github-readme-stats.vercel.app/api/top-langs/?username=prsonda&layout=compact&custom_title=Linguagens%20%mais%20%utilizadas&theme=dracula"
 						alt="Linguagens Utilizadas"
-						width={280}
-						height={130}
+						width={250}
+						height={110}
 					/>
 				</section>
 			</section>
