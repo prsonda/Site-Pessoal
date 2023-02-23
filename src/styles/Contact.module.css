@@ -9,3 +9,24 @@
 .contact a {
 	padding: 0 10px 0 10px;
 }
+
+@media only screen and (min-width: 717px) {
+	.contact {
+		display: flex;
+		max-width: 200px;
+		padding: 10px 10px 10px 10px;
+		justify-content: right;
+		align-items: flex-end;
+		flex: 1 1 100vw;
+	}
+}
+
+@media only screen and (max-width: 717px) {
+	.contact {
+		display: flex;
+		width: 100vw;
+		padding: 10px 10px 10px 10px;
+		justify-content: center;
+		align-items: center;
+	}
+}

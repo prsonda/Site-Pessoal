@@ -140,10 +140,10 @@ export default function Home() {
 				<br />
 				<section>
 					<Image
-						src="/Linguagens.svg"
+						src="https://github-readme-stats.vercel.app/api/top-langs/?username=prsonda&layout=compact&custom_title=Linguagens%20%mais%20%utilizadas&theme=dracula"
 						alt="Linguagens Utilizadas"
-						width={600}
-						height={200}
+						width={280}
+						height={130}
 					/>
 				</section>
 			</section>

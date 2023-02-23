@@ -6,7 +6,7 @@ export default function Aside() {
 		<>
 			<aside className={styles.about}>
 				<section>
-					<Image src="/Paulo.png" alt="Foto Paulo" width={280} height={305} />
+					<Image src="/Paulo.png" alt="Foto Paulo" width={240} height={280} />
 				</section>
 				<br />
 

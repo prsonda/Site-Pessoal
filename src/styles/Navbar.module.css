@@ -24,3 +24,24 @@
 	color: #00f2ff;
 	background-color: #113537;
 }
+
+@media only screen and (min-width: 717px) {
+	.navbar {
+		display: flex;
+		width: 50vw;
+		max-width: 240px;
+		padding: 10px 10px 10px 10px;
+		justify-content: center;
+		align-items: center;
+	}
+}
+
+@media only screen and (max-width: 717px) {
+	.navbar {
+		display: flex;
+		width: 100vw;
+		padding: 10px 10px 10px 10px;
+		justify-content: center;
+		align-items: center;
+	}
+}
