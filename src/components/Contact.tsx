@@ -6,6 +6,9 @@ export default function Contact() {
 	return (
 		<>
 			<section className={styles.contact}>
+				<Link href="https://github.com/prsonda" target="blank">
+					<Image src="/GitHub.png" alt="Github" height={40} width={40} />
+				</Link>
 				<Link href="https://www.linkedin.com/in/paulors1206/" target="blank">
 					<Image
 						src="https://cdn-icons-png.flaticon.com/512/179/179330.png?w=740&t=st=1677124415~exp=1677125015~hmac=b1a4c4c2ce6f08738ecae7be02c5490d1a79bbfb375d2299b1dc502efa17e6fd"

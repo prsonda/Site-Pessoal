@@ -10,7 +10,7 @@ export default function Home() {
 					<h1>Olá pessoal.</h1>
 				</section>
 				<br />
-				<section>
+				<section className={styles.texto}>
 					<p>
 						Sou paranaense do interior, apreciador de doces, gosto de filmes e
 						séries de ficção científica.
