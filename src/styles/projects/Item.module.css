@@ -1,0 +1,47 @@
+.item {
+	border: solid 1px #010212;
+	display: flex;
+	width: 400px;
+	height: 250px;
+	margin: 15px;
+	color: #bdfcff;
+	justify-content: center;
+	align-items: center;
+	animation: changeBackgroundColor 15s infinite; /* propriedade de animação */
+}
+
+@keyframes changeBackgroundColor {
+	0% {
+		background-color: #001f3f;
+	}
+	10% {
+		background-color: #003870;
+	}
+	20% {
+		background-color: #014f9d;
+	}
+	30% {
+		background-color: #0161c2;
+	}
+	40% {
+		background-color: #0275e8;
+	}
+	50% {
+		background-color: #0180ff;
+	}
+	60% {
+		background-color: #0275e8;
+	}
+	70% {
+		background-color: #0161c2;
+	}
+	80% {
+		background-color: #014f9d;
+	}
+	90% {
+		background-color: #003870;
+	}
+	100% {
+		background-color: #001f3f;
+	}
+}
